@@ -40,7 +40,7 @@ module.exports = {
   plugins: [
     new HtmlWebpackPlugin({
       inject: 'body',
-      title: "AppUnite recruitment task",
+      title: "Application title",
       template: 'index.html'
     }),
     new MiniCssExtractPlugin()
