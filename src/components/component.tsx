@@ -1,0 +1,1 @@
+export const TestComponent = () => <p>Test component</p>;
