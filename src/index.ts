@@ -1,6 +1,8 @@
 import './styles/main.scss';
 
-console.log('Console log from entry file.');
+import { testFunc } from "./scripts/test";
+
+testFunc();
 
 const add = (a: number, b: number) =>  a + b;
 

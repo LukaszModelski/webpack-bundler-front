@@ -1,6 +1,6 @@
 # Webpack 5 frontend bundler
 Features:
-* `Babel` to compile ES6 JavaScript (+ additional React preset)
+* `Typescript`
 * `SCSS` for styling
 * `file-loader` to handle public files like fonts and images
 * `JEST` for testing
